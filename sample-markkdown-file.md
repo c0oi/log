@@ -1,3 +1,7 @@
+---
+title: This will be used as the title-tag of the page head
+
+
 # An exhibit of Markdown
 
 This note demonstrates some of what [Markdown][1] is capable of doing. Test
