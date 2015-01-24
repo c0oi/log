@@ -1,5 +1,7 @@
-title: This will be used as the title-tag of the page head
-
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 # An exhibit of Markdown
 
